@@ -1,10 +1,10 @@
 ext {
     versions = [
-            kotlin             : '1.3.50',
+            kotlin             : '1.3.70',
             kotlinter          : '2.1.1',
             coroutine          : '1.3.1',
             dokka              : '0.9.18',
-            kotshi             : '2.0.1',
+            kotshi             : '2.1.0',
             okhttp             : '4.2.0',
             okhttpMockWebServer: '4.2.0',
             mockWebServer      : '0.1.4',
