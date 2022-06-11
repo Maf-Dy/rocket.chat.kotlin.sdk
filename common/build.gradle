@@ -44,10 +44,10 @@ kotlin {
         coroutines "enable"
     }
 
-/*
+
     kapt {
         correctErrorTypes true
-    }*/
+    }
 
 }
 
